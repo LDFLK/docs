@@ -4,7 +4,7 @@
 
 Thank you for your interest in the open source products made available by Lanka Data Foundation (“LDF”). In order to clarify the intellectual property license granted with Contributions by each person or entity, LDF must have a Contributor Agreement on file that has been accepted by each Contributor, indicating agreement to the license terms below. This Contribution Agreement is for your protection as a Contributor as well as the protection of LDF; it does not change your rights to use your own Contributions for any other purpose. This version of the Contributor Agreement allows You to submit Contributions to LDF, and to grant copyright and patent licenses thereto.
 
-You accept and agree to the following terms and conditions for Your present and future Contributions submitted to LDF. In return, LDF may use Your Contributions in its products. Except for the license granted herein to LDF, You reserve all right, title, and interest in and to Your Contributions.
+You accept and agree to the following terms and conditions for Your past, present and future Contributions submitted to LDF. In return, LDF may use Your Contributions in its products. Except for the license granted herein to LDF, You reserve all right, title, and interest in and to Your Contributions.
 
   1. Definitions.
     
