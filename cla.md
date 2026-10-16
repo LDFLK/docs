@@ -2,13 +2,30 @@
 
 ## Contributor License Agreement (“Contribution Agreement”)
 
-Thank you for your interest in the open source products made available by Lanka Data Foundation (“LDF”). In order to clarify the intellectual property license granted with Contributions by each person or entity, Lanka Data Foundation must have a Contributor License Agreement on file that has been accepted by each Contributor, indicating agreement to the license terms below. This Contribution Agreement is for your protection as a Contributor as well as the protection of Lanka Data Foundation; it does not change your rights to use your own Contributions for any other purpose. 
-This version of the Contribution Agreement allows You to submit Contributions to Lanka Data Foundation, and to grant copyright and patent licenses thereto. 
-You accept and agree to the following terms and conditions for Your past, present and future Contributions submitted to Lanka Data Foundation. In return, Lanka Data Foundation may use Your Contributions in its products. Except for the license granted herein to Lanka Data Foundation, You reserve all right, title, and interest in and to Your Contributions. 
+Thank you for your interest in the open source products made available by Lanka Data Foundation(“LDF”).
+In order to clarify the intellectual property license granted with Contributions by each person or entity, Lanka
+Software Foundation must have a Contributor License Agreement on file that has been accepted by each
+Contributor, indicating agreement to the license terms below. This Contribution Agreement is for your
+protection as a Contributor as well as the protection of Lanka Data Foundation; it does not change your
+rights to use your own Contributions for any other purpose.
+This version of the Contribution Agreement allows You to submit Contributions to Lanka Data Foundation,
+and to grant copyright and patent licenses thereto.
+You accept and agree to the following terms and conditions for Your past, present and future Contributions
+submitted to Lanka Data Foundation. In return, Lanka Data Foundation may use Your Contributions in
+its products. Except for the license granted herein to Lanka Data Foundation, You reserve all right, title,
+and interest in and to Your Contributions.
 
 ### 1. Definitions.
 
-- **(a)**  “Contribution” shall mean the code, documentation or other original works of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to Lanka Data Foundation, now or in the future, for inclusion in, or documentation of, any of the Works. For the purposes of this definition, “submitted” means any form of electronic, verbal, or written communication sent to Lanka Data Foundation or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Lanka Data Foundation for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution".
+- **(a)**  “Contribution” shall mean the code, documentation or other original works of authorship, including
+any modifications or additions to an existing work, that is intentionally submitted by You to Lanka
+Software Foundation, now or in the future, for inclusion in, or documentation of, any of the Works.
+For the purposes of this definition, “submitted” means any form of electronic, verbal, or written
+communication sent to Lanka Data Foundation or its representatives, including but not limited
+to communication on electronic mailing lists, source code control systems, and issue tracking
+systems that are managed by, or on behalf of, Lanka Data Foundation for the purpose of
+discussing and improving the Work, but excluding communication that is conspicuously marked or
+otherwise designated in writing by You as "Not a Contribution".
 
 - **(b)** “Copyright” shall mean all copyrights, and all right, title and interest in all copyrights, copyright registrations and applications for copyright registration, certificates of copyright and copyrighted interests throughout the world, and all right, title, and interest in related applications and registrations throughout the world, now or hereafter existing. 
 
@@ -16,14 +33,14 @@ You accept and agree to the following terms and conditions for Your past, presen
 
 - **(d)** “Work” shall mean any product or service of Lanka Data Foundation or any of its successors.  
 
-- **(e)**  “You” (or “Your”) shall mean the copyright owner or the legal entity authorized by the copyright owner that is entering into this Agreement with Lanka Data Foundation, either electronically or on paper.
+- **(e)**“You” (or “Your”) shall mean the copyright owner or the legal entity authorized by the copyright owner that is entering into this Agreement with Lanka Data Foundation, either electronically or on paper.
 
 ### 2. Grant of Copyright License.
 
  You hereby grant to Lanka Data Foundation, its successors and assigns, a perpetual, worldwide, non- exclusive, no-charge, royalty-free, irrevocable and transferable Copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute and otherwise exploit Your Contributions and such derivative works, with the right to sublicense such rights through multiple tiers of sublicensees. 
 
 ### 3. Grant of Patent License.
- You hereby grant to Lanka Data Foundation, its successors and assigns, a perpetual, worldwide, non- exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) license, with the right to sublicense such rights through multiple tiers of sublicensees, under Your Patents to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted. If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this Contribution Agreement for that Contribution or Work shall terminate as of the date such litigation is filed. 
+  You hereby grant to Lanka Data Foundation, its successors and assigns, a perpetual, worldwide, non- exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) license, with the right to sublicense such rights through multiple tiers of sublicensees, under Your Patents to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted. If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this Contribution Agreement for that Contribution or Work shall terminate as of the date such litigation is filed. 
 
 ### 4. Ability to Grant License.
 
@@ -31,11 +48,11 @@ You represent that You are legally entitled to grant the above licenses specifie
 
 ### 5. Original Creation.
 
- You represent that, except as disclosed in Your Contribution submission(s), each of Your Contributions is your original creation. You represent that Your Contribution submission(s) include complete details of any license or other restriction (including, but not limited to, related patents, copyrights and trademarks) associated with any part of Your Contribution(s) (including a copy of any applicable license agreement). You agree to promptly notify in writing Lanka Data Foundation of any facts or circumstances of which you become aware that would make your representations in this Contribution Agreement inaccurate in any respect. 
+You represent that, except as disclosed in Your Contribution submission(s), each of Your Contributions is your original creation. You represent that Your Contribution submission(s) include complete details of any license or other restriction (including, but not limited to, related patents, copyrights and trademarks) associated with any part of Your Contribution(s) (including a copy of any applicable license agreement). You agree to promptly notify in writing Lanka Data Foundation of any facts or circumstances of which you become aware that would make your representations in this Contribution Agreement inaccurate in any respect. 
 
 ### 6. Warranty.
 
- You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. The Work is provided to You AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND Lanka Data Foundation DISCLAIMS THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
+You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. The Work is provided to You AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND Lanka Data Foundation DISCLAIMS THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
 
 ### 7. Separate Contribution.
 
@@ -43,7 +60,7 @@ Should You wish to submit work that is not Your original creation, You may submi
 
 ### 8. Limitation of Liability.
 
- IN NO EVENT SHALL EITHER PARTY BE LIABLE TO ANYONE FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL OR INDIRECT DAMAGES OF ANY KIND ARISING OUT OF THE USE OF YOUR CONTRIBUTIONS, EVEN IF THE USER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL YOU OR Lanka Data Foundation HAVE ANY LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT, TORT OR ANY OTHER THEORY OF LIABILITY. 
+  IN NO EVENT SHALL EITHER PARTY BE LIABLE TO ANYONE FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL OR INDIRECT DAMAGES OF ANY KIND ARISING OUT OF THE USE OF YOUR CONTRIBUTIONS, EVEN IF THE USER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL YOU OR Lanka Data Foundation HAVE ANY LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT, TORT OR ANY OTHER THEORY OF LIABILITY. 
 
 ### 9. Miscellaneous.
 
